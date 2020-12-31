@@ -1,6 +1,6 @@
 # IMPORTANT
 
-This resource includes basic scripts needed to get the fully functional at install. In no way, the resources used with this hud are recommended for a live server. It is specially recommended to change the resources with an appropriate
+This resource includes basic scripts needed to get fully functional install. In no way, the resources used with this hud are recommended for a live server. It is specially recommended to change the resources with an appropriate
 systems.
 
 NOTE: Resources provided with this script have additional code alongside the original code to make the hud fully functional at install. If you have these resources already then make sure to remove or disable them to prevent any conflict.
