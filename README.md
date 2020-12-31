@@ -26,7 +26,7 @@ git clone https://github.com/ultrahacx/ultra-hud [hud]
 ```
 
 ### Manually 
-- Download 
+- Download https://github.com/ultrahacx/ultra-hud/releases/download/release/ultra-hud-release.zip
 - Put it in `resources` folder 
 
 ## Installation	
